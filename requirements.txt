@@ -4,7 +4,7 @@ tinydb==3.9.0.post1
 youtube_dl
 spacy==2.1.3
 pyowm==2.9.0
-tensorflow==1.15.0
+tensorflow==1.15.4
 deepspeech==0.9.0a3
 requests>=2.20.0
 nltk
